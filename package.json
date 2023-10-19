@@ -1,0 +1,7 @@
+{
+  "name": "send-signal",
+  "version": "1.0.0",
+  "description": "C++ program to kill windows applications gracefully",
+  "author": "Louis Thomas and others",
+  "license": "http://www.latenighthacking.com/projects/lnhfslicense.html",
+}
